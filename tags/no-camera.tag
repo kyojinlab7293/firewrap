@@ -1,0 +1,1 @@
+blacklist /dev/video*
